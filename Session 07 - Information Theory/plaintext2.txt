@@ -1,0 +1,11 @@
+Thanks for all your efforts to learn about scientific computing!
+
+I know we have covered a lot of topics, but this was done just to give you a sense of what is possible with custom software.
+
+The closer you get to cutting edge science, the less likely you will be able to just download an app that does exactly what you need.
+
+If you can't write code you will at some point start to subconsciously limit the science you pursue to fit within the limitations of the software you can find.
+
+So my question to you is just this:  will you let software dictate your science?
+
+Or instead will you keep extending your scientific experiments and analysis by creating new software to help tackle the hardest problems?
